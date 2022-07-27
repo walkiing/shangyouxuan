@@ -1,0 +1,29 @@
+hello atguigu! hello git!   2222222222222222222222222222222222222
+hello atguigu! hello git!   33333333333333
+hello atguigu! hello giti	
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+<<<<<<< HEAD
+hello atguigu! hello git! master test
+hello atguigu! hello git!
+=======
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git! hot-fix test
+>>>>>>> 349dc15 (hot-fix test)
